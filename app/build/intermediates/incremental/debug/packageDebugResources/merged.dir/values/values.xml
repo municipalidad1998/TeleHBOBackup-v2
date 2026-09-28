@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#001933</color>
+    <string name="adblock_summary">Filtra anuncios de YouTube y YouTube Music, oculta banners y salta los anuncios en video</string>
+    <string name="adblock_title">Bloqueador de anuncios</string>
+    <string name="app_name">Denilson Music</string>
+    <string name="nav_favorites">Favoritos</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="nav_songs">Canciones</string>
+    <string name="nav_youtube">YouTube</string>
+    <string name="nav_youtube_music">YouTube Music</string>
+    <string name="scanning_library">Buscando música en tu dispositivo…</string>
+    <style name="Theme.Denilson" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#001933</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

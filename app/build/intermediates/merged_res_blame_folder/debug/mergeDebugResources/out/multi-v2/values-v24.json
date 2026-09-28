@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.denilson.music.app-mergeDebugResources-70:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\8.9\\transforms\\ba15885c020e3bd6d7d03b249cae9101\\transformed\\media3-session-1.4.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        }
+    ]
+}
